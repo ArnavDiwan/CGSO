@@ -1,1 +1,2 @@
-# CGSO
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
